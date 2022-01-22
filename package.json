@@ -1,0 +1,21 @@
+{
+    "name": "ufounders-theme",
+    "displayName": "Ufounders Theme",
+    "description": "A color theme for daily work",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ufounders",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ufounders-color-theme.json"
+            }
+        ]
+    }
+}
