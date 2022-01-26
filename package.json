@@ -1,17 +1,22 @@
 {
   "name": "keepcalm-theme",
   "displayName": "Keepcalm Theme",
-  "description": "A color theme for daily work",
-  "version": "0.0.1",
+  "description": "A color theme for software development",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.63.0"
   },
+  "license": "MIT",
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package -o build"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgmonda/keepcalm"
+  },
   "contributes": {
     "themes": [
       {
