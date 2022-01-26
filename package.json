@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.63.0"
   },
+  "scripts": {
+    "build": "vsce package"
+  },
   "categories": [
     "Themes"
   ],
@@ -17,5 +20,8 @@
         "path": "./themes/Keepcalm-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.6.4"
   }
 }
