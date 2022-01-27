@@ -30,12 +30,11 @@
     "list.activeSelectionBackground": "#2e2c2d",
     "list.focusOutline": "#3d444e",
     "list.focusBackground": "#2e2c2d",
-    "list.inactiveSelectionBackground": "#1d191a",
+    "list.inactiveSelectionBackground": "#2e2c2d",
     "list.inactiveSelectionForeground": "#E7E8EA",
     "list.hoverBackground": "#2e2c2d",
     "list.hoverForeground": "#a7a8aA",
     "editor.lineHighlightBackground": "#2e2c2d",
-    "editor.lineHighlightBorder": "#3d444e",
     "editor.selectionBackground": "#3a475a",
     "editor.inactiveSelectionBackground": "#2e343d"
   },
