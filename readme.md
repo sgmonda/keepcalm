@@ -44,6 +44,6 @@ Create a publisher in VSCode marketplace:
 
 Prepare VSCE CLI
 
-- `npx vsce login sgmonda`
+- `npm run login`
 - Enter the access token
-- `npx vsce publish`
+- `npm run publish`
