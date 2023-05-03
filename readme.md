@@ -4,7 +4,7 @@ Keepcalm, a color theme for Visual Studio Code focused on software development.
 
 https://marketplace.visualstudio.com/items?itemName=sgmonda.keepcalm-theme
 
-## Development
+## Contributing
 
 Clone the repository and install dependencies:
 
@@ -31,3 +31,19 @@ Now you can share the VSIX file and install it in any computer:
 
 - ⌘⇧P
 - Extensions: install from VSIX...
+
+### Publishing
+
+Create an access token in Azure DevOps:
+
+- https://dev.azure.com/sgmonda
+
+Create a publisher in VSCode marketplace:
+
+- https://marketplace.visualstudio.com/manage
+
+Prepare VSCE CLI
+
+- `npx vsce login sgmonda`
+- Enter the access token
+- `npx vsce publish`
