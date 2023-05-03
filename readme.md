@@ -1,8 +1,6 @@
 ![front](https://user-images.githubusercontent.com/675812/236014786-d399c38d-1017-453a-a7c8-ad023f05319b.jpg)
 
-# Keepcalm Theme for Visual Studio Code
-
-A color theme for software development
+Keepcalm, a color theme for Visual Studio Code focused on software development.
 
 https://marketplace.visualstudio.com/items?itemName=sgmonda.keepcalm-theme
 
