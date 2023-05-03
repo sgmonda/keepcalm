@@ -97,8 +97,6 @@
         "meta.object.member",
         "entity.other.attribute-name",
         "variable.parameter"
-        // "variable.other.object.property",
-        // "variable.other.property"
       ],
       "settings": {
         "foreground": "#99b1b1"
@@ -109,6 +107,13 @@
       "scope": ["entity.name.function"],
       "settings": {
         "foreground": "#d4c79a"
+      }
+    },
+    {
+      "name": "This",
+      "scope": ["variable.language.this"],
+      "settings": {
+        "foreground": "#94948b"
       }
     },
     {

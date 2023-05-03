@@ -2,14 +2,13 @@
   "name": "keepcalm-theme",
   "displayName": "Keepcalm Theme",
   "description": "A color theme for software development",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.63.0"
   },
   "license": "MIT",
   "scripts": {
-    "build": "vsce package -o build",
-    "add-to-vscode": "vsce package --help"
+    "build": "vsce package -o build"
   },
   "categories": [
     "Themes"
@@ -28,6 +27,6 @@
     ]
   },
   "dependencies": {
-    "vsce": "^2.6.4"
+    "vsce": "^2.15.0"
   }
 }
