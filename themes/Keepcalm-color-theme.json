@@ -13,7 +13,7 @@
     "titleBar.inactiveBackground": "#1d191a",
     "activityBarBadge.background": "#1d191a",
     "sideBar.background": "#1d191a",
-    "sideBar.foreground": "#6e7681",
+    "sideBar.foreground": "#7a828e",
     "sideBarSectionHeader.foreground": "#A3ABB5",
     "sideBarSectionHeader.background": "#1d191a",
     "activityBar.background": "#1d191a",
@@ -36,7 +36,8 @@
     "list.hoverForeground": "#a7a8aA",
     "editor.lineHighlightBackground": "#2e2c2d",
     "editor.selectionBackground": "#3a475a",
-    "editor.inactiveSelectionBackground": "#2e343d"
+    "editor.inactiveSelectionBackground": "#2e343d",
+    "gitDecoration.ignoredResourceForeground": "#4b5058"
   },
   "tokenColors": [
     {
@@ -113,7 +114,7 @@
       "name": "This",
       "scope": ["variable.language.this"],
       "settings": {
-        "foreground": "#94948b"
+        "foreground": "#a5a59b"
       }
     },
     {

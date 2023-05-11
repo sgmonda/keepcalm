@@ -6,4 +6,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Dimmer feature (see https://github.com/kwonoj/vscode-activedocumentindicator/blob/master/src/activateExtension.ts)
