@@ -25,7 +25,7 @@
     "statusBarItem.hoverBackground": "#1d191a",
     "statusBarItem.activeBackground": "#191517",
     "editorRuler.foreground": "#2a2d31",
-    "editorLineNumber.foreground": "#3e4651",
+    "editorLineNumber.foreground": "#6e7681",
     "list.activeSelectionForeground": "#E7E8EA",
     "list.activeSelectionBackground": "#2e2c2d",
     "list.focusOutline": "#3d444e",
