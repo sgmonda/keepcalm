@@ -23,7 +23,7 @@ To see what token a word is, from this secondary window:
 - ⌘⇧P
 - Developer: Inspect editor tokens and scopes
 
-To build a shareable VSIX file, run the following in the main window:
+To build a shareable VSIX file, after updating the `version` field in the `package.json` file, run the following in the main window:
 
 - `npm run build`
 
