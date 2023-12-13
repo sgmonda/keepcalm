@@ -57,7 +57,8 @@
         "constant.language",
         "keyword.operator.assignment",
         "keyword.operator.optional",
-        "keyword.operator.spread"
+        "keyword.operator.spread",
+        "meta.diff.range",
       ],
       "settings": {
         "foreground": "#E7E8EA"
@@ -127,6 +128,20 @@
       "settings": {
         "foreground": "#66c9a3"
       }
-    }
+    },
+    {
+      "name": "Diff -",
+      "scope": ["markup.deleted.diff"],
+      "settings": {
+        "foreground": "#d64343"
+      }
+    },
+    {
+      "name": "Diff +",
+      "scope": ["markup.inserted.diff"],
+      "settings": {
+        "foreground": "#60bb66",
+      }
+    },
   ]
 }
