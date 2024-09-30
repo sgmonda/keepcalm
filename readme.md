@@ -52,6 +52,6 @@ After changes, update the `package.json` version and run:
 
 ```bash
 $ npm run build
-$ git commit -am '...'
+$ git add . && git commit -am '...'
 $ npm run publish
 ```
