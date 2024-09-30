@@ -12,7 +12,7 @@
   "scripts": {
     "build": "vsce package -o build",
     "login": "npx vsce login sgmonda",
-    "publish": "vsce publish"
+    "publish": "npx vsce publish"
   },
   "categories": [
     "Themes"
