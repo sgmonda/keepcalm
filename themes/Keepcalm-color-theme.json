@@ -27,7 +27,7 @@
     "editorRuler.foreground": "#2a2d31",
     "editorLineNumber.foreground": "#6e7681",
     "list.activeSelectionForeground": "#E7E8EA",
-    "list.activeSelectionBackground": "#2e2c2d",
+    "list.activeSelectionBackground": "#41474a",
     "list.focusOutline": "#3d444e",
     "list.focusBackground": "#2e2c2d",
     "list.inactiveSelectionBackground": "#2e2c2d",
@@ -58,7 +58,7 @@
         "keyword.operator.assignment",
         "keyword.operator.optional",
         "keyword.operator.spread",
-        "meta.diff.range",
+        "meta.diff.range"
       ],
       "settings": {
         "foreground": "#E7E8EA"
@@ -140,8 +140,8 @@
       "name": "Diff +",
       "scope": ["markup.inserted.diff"],
       "settings": {
-        "foreground": "#60bb66",
+        "foreground": "#60bb66"
       }
-    },
+    }
   ]
 }
