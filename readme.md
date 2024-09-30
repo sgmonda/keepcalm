@@ -46,7 +46,6 @@ Prepare VSCE CLI
 
 - `npm run login`
 - Enter the access token
-- `npm run publish`
 
 After changes, update the `package.json` version and run:
 
